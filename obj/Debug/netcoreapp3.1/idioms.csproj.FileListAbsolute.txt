@@ -1,0 +1,11 @@
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\bin\Debug\netcoreapp3.1\idioms.exe
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\bin\Debug\netcoreapp3.1\idioms.deps.json
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\bin\Debug\netcoreapp3.1\idioms.runtimeconfig.json
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\bin\Debug\netcoreapp3.1\idioms.runtimeconfig.dev.json
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\bin\Debug\netcoreapp3.1\idioms.dll
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\bin\Debug\netcoreapp3.1\idioms.pdb
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\obj\Debug\netcoreapp3.1\idioms.csprojAssemblyReference.cache
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\obj\Debug\netcoreapp3.1\idioms.AssemblyInfoInputs.cache
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\obj\Debug\netcoreapp3.1\idioms.AssemblyInfo.cs
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\obj\Debug\netcoreapp3.1\idioms.dll
+C:\Users\ggsmo\workspace\csharp\exercises\idioms\idioms\obj\Debug\netcoreapp3.1\idioms.pdb
